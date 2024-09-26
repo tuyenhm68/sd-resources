@@ -1,0 +1,2 @@
+!git clone https://github.com/ltdrdata/ComfyUI-Manager && pip install -r ComfyUI-Manager/requirements.txt
+!git clone https://github.com/ltdrdata/ComfyUI-Impact-Pack && pip install -r ComfyUI-Impact-Pack/requirements.txt && python ComfyUI-Impact-Pack/install.py
