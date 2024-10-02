@@ -3,7 +3,7 @@ https://huggingface.co/autismanon/modeldump/resolve/main/dreamshaper_8.safetenso
 
 [models/controlnet]
 https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_lineart_fp16.safetensors
-https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_scribble_fp16.safetensor
+https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_scribble_fp16.safetensors
 
 [models/clip_vision]
 https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors,CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors
